@@ -1,0 +1,6 @@
+git clone [ url  ]
+git add . [sube los archivos temporales]
+git config --global user.email "correo@correo"
+git config --global user.name "nombre"
+git commit -m"ver1" por ejemplo
+git push
